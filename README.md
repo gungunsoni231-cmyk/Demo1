@@ -1,3 +1,3 @@
-This is my first Repository 
-My name is Gungun Soni 
-I am in my final year of btech 
+This is my first Repository \n
+My name is Gungun Soni \n
+I am in my final year of btech \n
